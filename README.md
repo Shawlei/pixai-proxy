@@ -1,7 +1,7 @@
 # PixAI Proxy
 
 <p align="center">
-  <img src="assets/whale.gif" width="260" alt="whale">
+  <img width="260" alt="whale" src="https://github.com/user-attachments/assets/2ba9c4df-ede4-4a50-8a1f-35aa14b48a0f" />
 </p>
 
 <p align="center">
