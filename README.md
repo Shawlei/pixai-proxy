@@ -1,7 +1,7 @@
 # PixAI Proxy
 
 <p align="center">
-  <img src="assets/whale.jpg" width="260" alt="whale">
+  <img src="assets/whale.gif" width="260" alt="whale">
 </p>
 
 <p align="center">
